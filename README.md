@@ -8,10 +8,14 @@ Windows Defender Antivirus: Ensures that Windows Defender is enabled.
 Audit Policy: Configures auditing for logon and logoff activities.
 BitLocker: Enables encryption for the system drive.
 Windows Defender Firewall: Ensures that the Windows firewall is enabled for all profiles.
+
+
 ---Running the Script:
 Open PowerShell as Administrator.
 Copy and paste the script into the PowerShell window.
 Press Enter to run the script.
+
+
 ----Important Considerations:
 Backup Group Policies: Before making changes, ensure that current policies are backed up.
 Test Environment: If possible, test this script in a non-production environment first.
