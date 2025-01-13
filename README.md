@@ -53,8 +53,4 @@ The script configures the following security settings:
 - **Test Environment**: It's highly recommended to test the script in a non-production environment first. This will ensure the script does not interfere with existing configurations or applications in your production environment.
 - **Administrator Privileges**: The script requires administrative privileges to make changes to system policies.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
